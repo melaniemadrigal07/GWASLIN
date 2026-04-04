@@ -26,20 +26,6 @@ Notes:
 - Derived from image skeletonization SkelPy
 - Capture growth architecture and network organization
 
-
-## Genomic Data (SNPs)
-Genetic variation data used for GWAS.
-
-Includes:
-- Chromosome position
-- Reference and alternate alleles
-- SNP classification (synonymous, non-synonymous, non-coding)
-
-Derived annotations:
-- Gene association
-- Codon position and amino acid change
-- Functional annotation (PFam categories)
-
 ## Codon Usage Bias (CUB/)
 Analysis of synonymous SNP effects on codon usage.
 
