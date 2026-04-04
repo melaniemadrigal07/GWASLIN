@@ -3,6 +3,7 @@
 This repository includes scripts that integrate multiple phenotypic and genomic data types to characterize variation in *Botrytis cinerea* responses to Linalool.
 ## Metabolic Traits (MetabolicTraits/)
 Metabolic traits are derived from time-series imaging using LAB color space and reflect physiological and metabolic responses.
+Also includes python script to extract LAB values from Cytation5 images.
 
 Variables include:
 - max_DeltaE_5, auc_5, slope_5
